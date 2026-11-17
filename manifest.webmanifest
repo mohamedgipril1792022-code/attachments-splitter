@@ -1,0 +1,16 @@
+{
+  "name": "تقسيم المرفقات",
+  "short_name": "تقسيم المرفقات",
+  "description": "تقسيم مرفقات دعاوى مجلس الدولة — دعوى في كل ملف PDF",
+  "lang": "ar",
+  "dir": "rtl",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#F4F1EA",
+  "theme_color": "#12263F",
+  "icons": [
+    { "src": "icon.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
